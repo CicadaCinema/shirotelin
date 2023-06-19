@@ -51,10 +51,10 @@ hi Define term=bold cterm=bold ctermfg=17 gui=bold guifg=#00005f
 hi Macro term=bold cterm=bold ctermfg=17 gui=bold guifg=#00005f
 hi PreCondit term=bold cterm=bold ctermfg=17 gui=bold guifg=#00005f
 
-hi Type term=bold cterm=bold ctermfg=89 gui=bold guifg=#87005f
-hi StorageClass term=bold cterm=bold ctermfg=89 gui=bold guifg=#87005f
-hi Structure term=bold cterm=bold ctermfg=89 gui=bold guifg=#87005f
-hi Typedef term=bold cterm=bold ctermfg=89 gui=bold guifg=#87005f
+hi Type term=bold cterm=bold ctermfg=89 gui=bold guifg=#005f5f
+hi StorageClass term=bold cterm=bold ctermfg=89 gui=bold guifg=#005f5f
+hi Structure term=bold cterm=bold ctermfg=89 gui=bold guifg=#005f5f
+hi Typedef term=bold cterm=bold ctermfg=89 gui=bold guifg=#005f5f
 
 hi Special term=bold cterm=bold ctermfg=127 gui=bold guifg=#af00af
 hi SpecialChar term=bold cterm=bold ctermfg=127 gui=bold guifg=#af00af
